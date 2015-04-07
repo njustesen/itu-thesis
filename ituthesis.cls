@@ -72,6 +72,7 @@
 \renewcommand{\cftpartfont}{\normalfont\sffamily\bfseries}
 \renewcommand{\cftchapterfont}{\normalfont\sffamily}
 \renewcommand{\cftsectionfont}{\normalfont\sffamily}
+\renewcommand{\cftsubsectionfont}{\normalfont\sffamily}
 \renewcommand{\cftchapterpagefont}{\normalfont\sffamily}
 \renewcommand{\cftsectionpagefont}{\normalfont\sffamily}
 \setsecnumdepth{chapter}
